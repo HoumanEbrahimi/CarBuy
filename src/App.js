@@ -63,9 +63,7 @@ useEffect(()=>{
 
 
   return (
-
       <div>
-        
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>

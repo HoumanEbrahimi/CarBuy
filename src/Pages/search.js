@@ -3,13 +3,14 @@ import "./search.css";
 import apps from '../App';
 import React, { useState } from 'react';
 import Reset from './Reset.js';
+import File from '../teslas.json'
 
 const url = 'http://localhost:8000/teslas'
 
 const Searching = ({carData,removeCars,favoriteCars,setDcarData}) => {
   const [a,b]=useState('')
   const [c,d]=useState('')
-
+  console.log(carData.length)
   const fetchCars = async () => {    
 
     try{
@@ -24,17 +25,24 @@ const Searching = ({carData,removeCars,favoriteCars,setDcarData}) => {
 
 }
 
-const fetchBrands = (Brand) =>{
-  const carData=
-}
+
   const handleChange =(e)=> {
     b(e.target.value);
-    d(e.target.value)
+   
   };
+  const handleChange2=(e)=>{
+    d(e.target.value);
+  }
 
   const handleSearchChange = (e)=>{
-      if(a.trim().length!==0){
-        
+      if (a.trim().length!==0 && c.trim().length!==0){
+        const filterCars=carData.filter(data=>data.Brand.includes(a) && data.title.includes(c));
+        setDcarData(filterCars);
+      }
+
+      else if(a.trim().length!==0 && c.trim().length===0){
+        console.log(a,c)
+
         const filterCars=carData.filter(data=>data.Brand.includes(a) || data.Brand.toString().toUpperCase()===a);
         setDcarData(filterCars);
 
@@ -44,35 +52,21 @@ const fetchBrands = (Brand) =>{
         console.log("empty bro")
       }     
 }
-const handleBrand = (e)=>{
-  var brand=0;
-  if(c.trim().length!==0){
-    
-    const filterCars=carData.filter(data=>data.title.includes(c)|| data.title.toString().toUpperCase()===c)
-    setDcarData(filterCars);
 
-    if(a.trim().length!==0){
-      brand=a;
-    }
 
-  }
-  else{
-    fetchBrands(a);
-    console.log("empty bro")
-  }     
-}
     return (
       <div >
         
-          <input onChange={handleChange} placeholder="Search" type="text" id="search">
+          <input onChange={handleChange} placeholder="Brand" type="text" id="search">
           </input>
-        <button onClick={handleSearchChange}> Brand</button>
+          <input onChange={handleChange2} placeholder="Model" type="text" id="search">
+          </input>
+        <button onClick={handleSearchChange}> Search</button>
       <p> &nbsp;</p>
-        <input onChange={handleChange} placeholder="Search" type="text" id="search">
-          </input>
-        <button onClick={handleBrand}> Model </button>
+
         <h2 className="background">
             Available Cars
+            <Reset> </Reset>
         </h2>
 
         {carData.map((car)=> {

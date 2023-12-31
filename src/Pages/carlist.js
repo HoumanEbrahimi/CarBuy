@@ -18,6 +18,7 @@ const CarList = ({id,imagePath,title,t1,removeCars,favoriteCars}) =>{
                     Not Interested 
                 </button>
                 <button className="interested-btn" onClick={()=>favoriteCars(id)}>
+                    
                     Interested
                 </button>
             </footer>       

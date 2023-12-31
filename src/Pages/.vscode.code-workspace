@@ -1,16 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "../../.vscode"
+			"path": "../../../.vscode"
 		},
 		{
-			"path": "../../node_modules"
+			"path": "../.."
 		},
 		{
-			"path": "../../public"
+			"path": "../../../node_modules"
 		},
 		{
-			"path": ".."
+			"path": "../../../public"
+		},
+		{
+			"path": "../../../src"
 		}
 	]
 }
