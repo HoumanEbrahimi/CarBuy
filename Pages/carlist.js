@@ -21,7 +21,7 @@ const CarList = ({ id, imagePath, title, t1,model,Brand,removeCars, favoriteCars
             Car Info
           </Card.Text>
           <Button onClick={() => removeCars(id)}>
-            Not Inter
+            Not Intersted
           </Button>
           &nbsp;&nbsp;
           <Button onClick={() => favoriteCars(id)}>
