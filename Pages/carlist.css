@@ -1,0 +1,16 @@
+.CarList-img {
+    height: auto;
+    max-height: 350px;
+    width: auto;
+    max-width: 350px;
+  }
+
+.CarList-main-card{
+    width: 320px;
+    height: 415px;
+}
+
+.card-container{
+    
+    
+}

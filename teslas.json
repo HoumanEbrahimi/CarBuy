@@ -1,0 +1,124 @@
+{
+  "teslas":[
+  {
+      "id":"1",
+      "imagePath": "https://digitalassets.tesla.com/tesla-contents/image/upload/h_1708,w_2560,c_fit,f_auto,q_auto:best/Model-3-Main-Hero-Desktop-LHD_001",
+      "title": "tesla",
+      "model":"Model3",
+      "year": "2022",
+      "trim": "standard",
+      "Brand": "Tesla",
+      "Dealership":"https://www.tesla.com/en_ca/model3",
+      "email":"houman.ebrahimi@mail.utoronto.ca"
+  
+  }
+  ,{
+      "id":"2",
+      "imagePath":"https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Main-Hero-Desktop-LHD",
+      "title": "tesla",
+      "model":"modelS",
+      "year": "2022",
+      "trim": "Plaid",
+      "Brand": "tesla",
+      "Dealership":"https://www.tesla.com/en_ca/models",
+      "email":"houman.ebrahimi@mail.utoronto.ca"
+
+
+  },{
+      "id":"3",
+      "imagePath":"https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-X-Main-Hero-Desktop-LHD",
+      "title": "tesla",
+      "model":"modelX",
+      "year": "2022",
+      "trim": "Standard Plus",
+      "Brand": "tesla",
+      "Dealership":"https://www.tesla.com/en_ca/modelx",
+      "email":"houman.ebrahimi@mail.utoronto.ca"
+
+
+  },
+  {
+    "id":"4",
+    "imagePath":"https://nafta.starconnect-ce.i.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqaWFqtyO67PobzIr3eWsrrCsdRRzwQZQ9vZbMw3SGtle9tsd2HdcUfp8qXGEubmJ0l3ItOB2NQnbApjdpI5uVcZQC3qkWkzNRL6m7jZ6qhKVFKF%25vq9UTyLRDO6Yax7aYrH1KMrn8wvVwoiZUbEM4FGTlTg906V6PDMLoSeWzy3tsd7BdcUfi%256XGE4nSJ0lgDfOB2PSObApe7yI5uKMTQmIJwF1%25u6PDL%25pSeWvantsdPsdcUfeUqXGE1JBJ0lB0tOB2A8cbA4wHEcmqN1IwClbM35pnIu2fzzjFm93Su9Q6DF1s1n2nvligKfLlCVzU5Ug4FGHi9h&&BKGND=9&IMGT=P27&POV=be040%2Cpzm&crop=0,0,1920,1150&width=2880&height=1725",
+    "title": "mercedes",
+    "model":"cclass",
+    "year": "2022",
+    "trim": "standard",
+    "Brand": "mercedes",
+    "Dealership":"https://www.mercedes-benz.ca/en/vehicles/model/c-class/sedan/c300w4",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+
+  },
+  {
+    "id":"5",
+    "imagePath":"https://www.motortrend.com/uploads/2023/10/001-2024-Lexus-RX-350-front-view.jpg",
+    "title": "lexus",
+    "model":"RX",
+    "year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "lexus",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+  },
+  {
+    "id":"6",
+    "imagePath":"https://www.bmw.ca/content/dam/bmw/common/all-models/3-series/sedan/2022/navigation/bmw-3-series-sedan-lci-modelfinder.png",
+    "title": "bmw",
+    "model":"3Series",
+    "year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "BMW",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+  },
+  {
+    "id":"7",
+    "imagePath":"https://www.audi.ca/content/dam/nemo/ca/Models/a4/a4-sedan/MY2022/1920x1080_a4_2022_blackedition_red_CA_v.6.jpg?imwidth=1920&imdensity=1",
+    "title": "audi",
+    "model":"a4",
+    "model year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "audi",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+  },
+  {
+    "id":"8",
+    "imagePath":"https://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAI1X-T9UXx8_jEEOYexMhEK2UJYKNbZisn0tZRtbk11MlmStkDVLdmJs2ROJZC9LiIjsRCQU2bP33O_zev6A5_7wed37ufd1zrmf814-p3QZoD1JAGVmpoI_5GKzsxuXpwTgnhsAgALJU5qplG5w7FDTGk7_L80QCai8iTZuFMgXGpR0Di7WdsSz_yYYKeisZSWI9zwkSG7naZC3SfDHlnW9iTzxgPxsG1u_w1G_V8oeCmBAQOGFC35ivNqWOB27mMOLTVav_wLIuS77hf4QvX1pJ53HtOfFBSsjPmkA2yi7cl8oGV1i2yq3SvARSiV23tYG8NPcUKj02eDpjFzrTtYKc4uI2yu5AAYTExd9vDaEooSe6F1B5fMLefwKAFBDpw-l9CFt1JzlW2BSKGNgXX8rM4CtXx_oRAWdy51LKsmsjozvQZdlZgFINKG4UF_9Wi7_gwRqXnc0Ldf-jgwy7jL1UIELNiWrjxR_7mU0KrvPjgbAZuEXmm0vXfWq6hmPmo8HaY6PFZEARLHQhKeESG9YPhdd0ty3Oaf2NDAdwCVlSdv5K_yyQ2KOnaQzYu_cCyYoAMzjQsteRqXJTJW90mpnnH4sGH-dCsDuSiYlb3qtMtyv9ln7ZlK7RWWVIIAJszFjcQprdXL6e3ob6Nptoxv6XQCiD-6P2w-Gznpf6rUiJjuFvDfn00Vqpv2FGqXFslV5RoG3ho8_LL9w9SqADPKrrUaa7Qz7JTTuUqKmVfg9s30AWSYSCp5L2OUTkpnU3letaDM76yGzmXGVJmOnrb-YnMzaUqau135xnmEQwMPTFB_MucOm9OQNs43_-TaiPn3nGYBXTwU__rb0tXdP9qeoc8Q7SgfRVKS-AhuTc-WT3EKTJOIf_7uTPngbaW4Aa97cQE8kjTx4pRihr_TJKk7HT50dwA31ILq0MyDkblZOebjpQJP3oPQkgA3CVuaLxbYfe8BMbMJ3ryyl5MrHANZT81RbRFJOp1QIrTIfMY3SLX8fB1CmNumWTXtBMfpJcIri9Os7ZktOOACDEkZWPCfYfUqYoghFrwQHlGjJRQBi5eXj0aGdBqIesvwhBelftQX5cgC8tb2g9JOrUe2uSfrUNfFxm8SMIBXk3zCa-mPrmZJ9mV7N3LkvreOOWT9H0Oc-sFydHvryk9yavsiE5lggZsASQGbuAI0sGd82Ry3V6C96RY2qqM_IbLObisfNqKSZcP3vQwbf6PSMOLfRAng8QZn8K31Rl5strzaY9ruwBP8hJ4BFLg0mk-8jJynxvsLr4gx53h3mHwEsE77I1sx39N38TJv-rUcydgebdSYAyllUXX34rr-cYMMlSfLR5AI58T8ApFB3Prazhups_dlB-YR_cnfutQCCEnaHas7r2XLqFnr-0inYeHxHVQdSX6Fgx4VXiX8eEw9m9AwEayL2fS7MAcidpx_XMbfjNrCQ2iI3bqW6j7ssimBS2KyWoTHjb8Rfnt0sYQezKdNwXgA5Ur-15Q5cptU66uYfNWvMoOz6lACgsZiMvzcIml2qYn3GqBtnjekrUENGKLhKDG77YilQzS-yfFUYv0nFf4jUTJ3pRPVGyBCHLo--8-rLKY6VCw8B7PC1FL9xT0rPEEf7hdpE-XRKGV4ZwEoFWjNBcTvJXRAw6OmRiveoNHUC8HvUHKM468nE66nJuUHs3w4LFYq6AXwp3J2Axtm09UjYDEyGX2Hf9DFBGCtXylhl1XYT7YDpFniC-2xsO2OLcBPzxe1zb-NjUwUBStOS5UzOXvuuWQDpn8vjLc78mKRxXUjEU3AdfPoejDCWTJ8d1UGVmtdgEBsZh3fnPL4ty4bUQTCs-P4JXwsUIz3PxNy9WJ-VO8gO2TZTu9mOy2VjMk4bn4nkn1GmNfIE8A3XznPrLbGbX4cGBC65Kx3s6eGwADpjnHotaU_zacREtNwlHxYcl2f6AKCgUXI5sWJjT7DBjM6Pcy1Z8Q_sAJDwzizqk-LzcW83Br0GWsyIr_hFNICDJj_DS5TYt31q1lpz6mRzggx-JgJoN7tyssdYMlh8dFwU55TeE3hWDFECZh16xSfHGs82St6urVB69Nno2zCyQ07tOW-j6wKzPvU8f0Ydfz9B2NebD9HqhoDjmYG79nkyKTlO19wC8tgrkB3i86dbwOmQMw_yT_Chapxt6BpMER5z-oyOfnaYWvqiGjfUOWZotbNjjqyMSl_4hP1ReItraX-ehOczzswu6QgAT6t5uEvPJLYcLLsE9pYeqN943e0MILWdoVxWGTUGO7BN2Voo8qPCUN8dqSRmfrqQTwH93a-4ctiWe_SE-cFLALv0t_OVVXtU7mi2RdeSeAoaY4biAFRb96ogFTYu6bp0WZHhWmeHfD3iOLEsvAYClvs9fsrOEqt866amMb9TEbbQmmREwvenQkrKRliYWKXNVmW8EIW5-Sas1Um9FXUMb_XUfOZP233nKWQNryuuCpYur4o2SZYbFOOqvE_fP4Fwk0HYqldkAmVwceXyqqAJU0etghiA0wkPVPSc2kTXmDy6a86bHf7aibyHYGcyT3uFAzMTvTyjbXG9z63yhc4jAM9L7HB6_Sokn-IY5iLH0A1fMsAcBzDe6yJ9eLcTuGPxJlhgSsViDfPRBcDxtfF-2zw7ww_7IZVbEVWi7o9tEZVb6fJul50TqxLhetpyigdteb7qShSAR6BpbO1RYDPGmle3cK3oonPMqD-Aq7as-tTzwQcDSpJxA1q8fTTcQQwA-oX-JR07NOmm_5MvIq-hiSqmO7wI4P4fxpEHRcU7HI5iBL9fLUzoF353AAykZ_9whXXAyedIZGLG_6vx6Vd8GgDOxzHcU9oZu5TWW9Zkzehu9yNIvwDArYDzf3yMHp3cCAtjzn8avY_TkHgDoLfVyErj21N8T6I8Uo-pXGVecI6xAnDScd6Em17lZoPAB8c7i40-GjtWiPNKoZKr1zcZQjz3wvmVF8y7FH9WIi5t7i946iMb2YjFFTzjGb5FIO1jEG4qBFGNdObewIf6luWplUcvtaIJfgA-uNLwMHMlZaudKnuxd0sgdqnxyQsAmaov-3lk_Z1TShGyHDhxIqvc5dEYgF_rcYIdm5jEHv51R-z95c-t9XhEETtasZH86vVrLTzEyMAimStftZyQcZd0kwOckkrjKL9lKNY4OnpT-g1dA9DNkk-k25VlOUTvIexQ46-s9VpHehhtcdbivF0PlrLnqrWz5FcOqViJdQB3o9gXP8eH4z-eqgiLzlZE7d99FwRgDC-gefVTe2i60jwSOBfiiqLbEY81mB02zsjVWgCmjJv8pxjXD8WLDQCkTTy3Hs8gWjk2fKGkwcGAQqA5LhxA0_tv_6nT3FpRtRe8lthPrB1uiqsFcE9HKusvoME6nyeLj-Zi7Q3SKPIBxKc2Sd0iOPz4qMFwdPkf11yzT1SIKnPlPaZzoSa0z1-uMJbTfp0afclxBMAWeWquh8s_XKp-F2vmnqlX5fk5jHhAhx5X8HqQJP-y0Oq9xbsTvv2-MXgAXfsHhQjEi8J6ARUSjlvkf4aX6hkRFtKoO3p5Ww7OZ7N0-ZVe-66gpjAA4C_fGmZVzpKMLx_kSVG8ZcMNMfM9iEOK6P4u1rolZ8uE3d3A8dXtjlH9AdCI70Gw5CUWPyzbzWMu6bHkDP6ziMplZ2Cwfn5z82dLpnAjnq5uTcJSiEsTyThp93HDfraEeulQ22R3OjFvTQBzRaIsft46Je4_dOFNzFJ2KIidbQDwOpq2knM6NpacVCWXqN3795nKoi-AETfnUpp4R7CYLgIr6-9IRUbDmwoAuqN8cQl_TJUWQrEa-XYkelgfjDDLRmGmMCBc6_xb_LJntjhTuc_JMaTf6TSgLtgguGhMcBDIZglFkeNYNQQ74xM0qkV7jt9VW4-1zRzPnBZKtEe07xbrXWk1pWSNyHv2Twix-8zKtKsnAcStPx3yfFuCf6P9XKuoi5J_yrItEkBNttubp2OtG3NTlAkU-zLr6SGxSB22LIl1u9JD15PSTG5HvDyv9o4Fh_hx_i4h-OxJa57QCsLr5euX1w6e9SJsGcLc5wwjH3nlLIW6eLRwJwjwjK0CmClZfsX28yJ7-Q3Ra5-cF9GCze-TEfwOvqDOX9Nii2f8talnI-W_EtaO9KkqydVf3T_4npHdpvHifVcrUQxN-5Few8t-yajwcdp2Uh99wFxizRydBZI9c7LNIHio5mBauz5USPjWyfnJxRlECfaEYzneUhCOqulGSSwq2U1yiwh-5bfYKd1W3U3sePIT5k6Pp8SE-TcDyBOD7qvB0A6aK-caxS3nVTDPypwDUOmEjMB0TFRnRqvxzugC-4LORA-CM6KBQp9ql6vhYOQ1bdeX0ZwbffvTCH5JHjRXtQ8tXjVXcNIoNiU3Lv4uBNBjszlNOHPRwv_rVhrp2pobpm_8FaLKkduWuUJaYcGrVczLxMDUF3WqUgAm1aVNzUbG-7KukdF27xbehNP4pQM0cg6i1EQCFS8S6OeRQKsJ_huRQDH27zEp599n1A0UAPAKchMM_r2Os3iSnN2sSdYukiTiXbc7rncdvIjMIlL_58VChTPWNPwPHEAcSr4NAAA?wid=1400",
+    "title": "audi",
+    "model":"a5",
+    "year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "audi",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+  },
+  {
+    "id":"9",
+    "imagePath":"https://tdrpmimages.azureedge.net/photos/import/202112/0921/2922/9c2d700c-904e-44ad-9c60-eb11fc493e91.jpg-180x135",
+    "title": "cadillac",
+    "model":"lyriq",
+    "year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "cadillac",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+
+  },
+  {
+    "id":"10",
+    "imagePath":"https://images.edealer.ca/2/114999339.jpeg",
+    "title": "lexus",
+    "model":"ls",
+    "year": "2023",
+    "trim": "Luxuty Package",
+    "Brand": "lexus",
+    "Dealership":"https://www.lexus.ca/lexus/en/automobiles/rx",
+    "email":"houman.ebrahimi@mail.utoronto.ca"
+  }
+  ]}

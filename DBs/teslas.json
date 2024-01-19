@@ -1,0 +1,20 @@
+[
+{
+    "id":"1",
+    "imagePath": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/cd32a56b-2a29-453b-bbae-a39480766cd9/bvlatuR/std/590x506/Model3_01?lcid=1e84026d-2319-4378-b5bd-22fa4c980c22&v=25&dpr=113",
+    "title": "Tesla Model 3 Performance",
+    "t1": "2020 Tesla Model 3"
+
+}
+,{
+    "id":"2",
+    "imagePath":"https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/2b585eac-984d-4ca3-8cc5-31d437f695fd/bvlatuR/std/590x506/models_01?lcid=2b084dd2-ade1-49ec-a470-45363112146c&v=47&dpr=113",
+    "title": "Tesla model S",
+    "t1": "2022 Tesla Model S"
+},{
+    "id":"3",
+    "imagePath":"https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/e73bce04-c568-4d61-bb40-9ad0dfdb5d4c/bvlatuR/std/590x506/ModelX_02?lcid=9511c1b4-08d9-4f10-a6a0-83734ffd00f1&v=31&dpr=113",
+    "title": "Tesla model Y",
+    "t1": "2022 Tesla Model Y"
+}
+]
