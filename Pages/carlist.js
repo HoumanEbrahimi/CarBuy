@@ -25,7 +25,7 @@ const CarList = ({ id, imagePath, title, t1,model,Brand,removeCars, favoriteCars
           </Button>
           &nbsp;&nbsp;
           <Button onClick={() => favoriteCars(id)}>
-            Interested
+            very Interested
           </Button>
         </Card.Body>
       </Card>
