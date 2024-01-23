@@ -13,17 +13,34 @@ const MainPage =({carData,setDcarData,favCar})=>{
       setDcarData(filterCars);
   }
     return (
-        <div className="mainPage-body">
+      <div>
+      <div>      
           <br></br>
-            <h1 className="mainPage-font">
-            Welcome to this application
+      <h1  style={{color:"#2596be",fontSize:"55px",fontFamily:"Times New Roman"}}> Welcome to CarBuy!</h1>
+      <br></br>
+      <img className="responsive-image"
+          src="https://github.com/HoumanEbrahimi/Lol/blob/main/WhatsApp%20Image%202024-01-10%20at%2021.32.48_8ff8dc8e.jpg?raw=true"
+          alt=""
+          width="450" 
+          height="450"
+          />    
+   
+          <br></br>
+          <p className="font-custom"> 
+CarBuy is an innovative dealer app that has revolutionized the automotive purchasing experience. Designed to streamline the car-buying process, 
+CarBuy empowers both dealers and customers with a user-friendly platform 
+that offers a seamless and efficient transactional journey. 
+With a comprehensive inventory of vehicles, users can browse
+ through an extensive selection, filtering options based on preferences such as make, 
+ model, and price range.</p>
+          <br></br>
+          <strong className="bold"> Enjoy your search!</strong>
 
-            </h1>
-            <br>
-            </br>
-            <h2 className="mainPage-font2"> Use this webpage to enhance your searching journey for finding your ideal car</h2>
+       </div>
 
-        </div>
+          <br></br><br></br> <br></br>
+
+      </div>
     );
 }
 
